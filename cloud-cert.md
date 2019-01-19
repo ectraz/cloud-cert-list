@@ -30,6 +30,20 @@ Certification | Level | Cost | Time | Recommended Experience | Exam Guide | Prer
 
 
 ## Google Cloud
+Certification | Level | Cost | Time | Recommended Experience | Exam Guide | Prerequisites 
+:-- | :--: | :--: | :--: | :--: | :--: | :--: |
+[Google Cloud Cerified - Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) |Associate  | 125 USD |180 mins|Six Months of fundamental AWS Cloud and industry knoweldge|[Yes](https://cloud.google.com/certification/guides/cloud-engineer/) | None|
+[Google Cloud Cerified - Cloud Architect](https://cloud.google.com/certification/cloud-architect) |Profressional  | 200 USD |180 mins|Six Months of fundamental AWS Cloud and industry knoweldge|[Yes](https://cloud.google.com/certification/guides/professional-cloud-architect/) | None|
+[Google Cloud Cerified - Data Engineer](https://cloud.google.com/certification/data-engineer) |Profressional  | 200 USD |180 mins|Six Months of fundamental AWS Cloud and industry knoweldge|[Yes](https://cloud.google.com/certification/guides/data-engineer/#certificate-exam-guide) | None|
+[Google Cloud Cerified - Cloud Developer](https://cloud.google.com/certification/cloud-developer) |Profressional  | 200 USD |180 mins|Six Months of fundamental AWS Cloud and industry knoweldge|[Yes](https://cloud.google.com/certification/guides/cloud-developer/) | None|
 
-## Microsoft
+
+## Microsoft Azure
+Certification | Exam Number | Cost | Time | Recommended Experience | Exam Guide | Prerequisites 
+:-- | :--: | :--: | :--: | :--: | :--: | :--: |
+[Microsoft Certified Azure Fundamentals](https://www.microsoft.com/en-us/learning/azure-fundamentals.aspx) |Associate  | 99 USD |180 mins|Six Months of fundamental AWS Cloud and industry knoweldge|[Yes](https://www.microsoft.com/en-us/learning/exam-AZ-900.aspx) | None|
+[Microsoft Certified Azure Administrator](https://www.microsoft.com/en-us/learning/azure-administrator.aspx) |AZ-100  | 165 USD |180 mins|Six Months of fundamental AWS Cloud and industry knoweldge|[Yes](https://cloud.google.com/certification/guides/cloud-engineer/) | Pass following exams: [AZ-100](https://www.microsoft.com/en-us/learning/exam-AZ-100.aspx) & [AZ-101](https://www.microsoft.com/en-us/learning/exam-AZ-101.aspx)|
+[Microsoft Certified Azure Solutions Architect](https://www.microsoft.com/en-us/learning/azure-solutions-architect.aspx) |Associate  | 125 USD |180 mins|Six Months of fundamental AWS Cloud and industry knoweldge|[Yes](https://cloud.google.com/certification/guides/cloud-engineer/) |  Pass following exams: [AZ-300](https://www.microsoft.com/en-us/learning/exam-AZ-300.aspx) & [AZ-301](https://www.microsoft.com/en-us/learning/exam-AZ-301.aspx)|
+[Microsoft Certified Azure Developer](https://www.microsoft.com/en-us/learning/azure-developer.aspx) |Associate  | 125 USD |180 mins|Six Months of fundamental AWS Cloud and industry knoweldge|[Yes](https://cloud.google.com/certification/guides/cloud-engineer/) |  Pass one of following exams: [AZ-202](https://www.microsoft.com/en-us/learning/exam-AZ-202.aspx) or [AZ-203](https://www.microsoft.com/en-us/learning/exam-AZ-203.aspx)|
+[Microsoft Certified Azure DevOps Engineer](https://www.microsoft.com/en-us/learning/azure-devops.aspx) |Associate  | 125 USD |180 mins|Six Months of fundamental AWS Cloud and industry knoweldge|[Yes](https://cloud.google.com/certification/guides/cloud-engineer/) | Pass following exams: [AZ-400](https://www.microsoft.com/en-us/learning/exam-AZ-400.aspx)|
  
