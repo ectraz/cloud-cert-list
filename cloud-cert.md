@@ -23,7 +23,7 @@ Certification | Level | Cost | Time | Recommended Experience | Exam Guide | Prer
 
 ### AWS Certified Specialty
 Certification | Level | Cost | Time | Recommended Experience | Exam Guide | Prerequisites 
-:-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+:-- | :--: | :--: | :--: | :--: | :--: | :--: |
 [Advanced Networking](https://aws.amazon.com/certification/certified-advanced-networking-specialty/) | Specialty | 300 USD |170 mins|AWS Certified Cloud Practitioner or a current Associate-level certification: AWS Certified Solutions Architect - Associate, AWS Certified Developer - Associate or AWS Certified SysOps Administrator - Associate recommended|[Yes](https://d1.awsstatic.com/training-and-certification/eligibilityupdates/AWS%20Certified%20Advanced%20Networking%20-%20Speciality_Exam_Guide_v1.2_FINAL.pdf) | None|
 [Big Data](https://aws.amazon.com/certification/certified-big-data-specialty/) | Specialty | 300 USD |170 mins|AWS Certified Solutions Architect - Associate  certification recommended|[Yes](https://d1.awsstatic.com/training-and-certification/eligibilityupdates/AWS%20Certified%20Big%20Data%20-%20Specialty_Exam%20Guide_v1.3_FINAL.pdf) | None|
 [Security](https://aws.amazon.com/certification/certified-security-specialty/) | Specialty | 300 USD |170 mins|A minimum of five years of IT security experience designing and implementing security solutions| [Yes](https://d1.awsstatic.com/training-and-certification/eligibilityupdates/AWS%20Certified%20Security%20Specialty_Exam%20Guide_v1.6_FINAL.pdf) | None|
