@@ -9,7 +9,7 @@ Certification | Level | Cost | Time | Recommended Experience | Exam Guide | Prer
 [Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) | Foundational | 100 USD |90 mins|Six Months of fundamental AWS Cloud and industry knoweldge|[Yes](https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practitioner_Exam_Guide_v1.4_FINAL.PDF) | None|
 
 ### AWS Certified Associate
-Certification | Level | Cost | Time | Recommended Experience |Exam Guide| Prerequisites 
+Certification | Level | Cost | Time | Recommended Experience | Exam Guide | Prerequisites 
 :-- | :--: | :--: | :--: | :--: | :--: | :--: |
 [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) | Associate | 150 USD |130 mins|Six Months of fundamental AWS Cloud and industry knoweldge|[Yes](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions_Architect_Associate_Feb_2018_%20Exam_Guide_v1.5.2.pdf)| None|
 [Developer](https://aws.amazon.com/certification/certified-sysops-admin-associate/) | Associate | 150 USD |130 mins|Six Months of fundamental AWS Cloud and industry knoweldge|[Yes](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS_Certified_Developer_Associate_Updated_June_2018_Exam_Guide_v1.3.pdf) | None|
